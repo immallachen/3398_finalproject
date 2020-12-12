@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.456780045351474 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "word" 
+        xmin = 0 
+        xmax = 4.456780045351474 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.057981559588779305 
+            text = "" 
+        intervals [2]:
+            xmin = 0.057981559588779305 
+            xmax = 0.43387501421292596 
+            text = "HAD" 
+        intervals [3]:
+            xmin = 0.43387501421292596 
+            xmax = 1.0057843344162918 
+            text = "ANOTHER" 
+        intervals [4]:
+            xmin = 1.0057843344162918 
+            xmax = 1.9346622558563529 
+            text = "TALK" 
+        intervals [5]:
+            xmin = 1.9346622558563529 
+            xmax = 4.456780045351474 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phone" 
+        xmin = 0 
+        xmax = 4.456780045351474 
+        intervals: size = 13 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.05772610508085983 
+            text = "sil" 
+        intervals [2]:
+            xmin = 0.05772610508085983 
+            xmax = 0.1424344892215126 
+            text = "HH" 
+        intervals [3]:
+            xmin = 0.1424344892215126 
+            xmax = 0.2853798874588641 
+            text = "AE" 
+        intervals [4]:
+            xmin = 0.2853798874588641 
+            xmax = 0.43387501421292596 
+            text = "D" 
+        intervals [5]:
+            xmin = 0.43387501421292596 
+            xmax = 0.5185833983535787 
+            text = "AN" 
+        intervals [6]:
+            xmin = 0.5185833983535787 
+            xmax = 0.6034195097481913 
+            text = "N" 
+        intervals [7]:
+            xmin = 0.6034195097481913 
+            xmax = 0.7224129476920245 
+            text = "AH" 
+        intervals [8]:
+            xmin = 0.7224129476920245 
+            xmax = 0.8019547850778461 
+            text = "DH" 
+        intervals [9]:
+            xmin = 0.8019547850778461 
+            xmax = 1.0057843344162918 
+            text = "ER" 
+        intervals [10]:
+            xmin = 1.0057843344162918 
+            xmax = 1.2474620185235539 
+            text = "T" 
+        intervals [11]:
+            xmin = 1.2474620185235539 
+            xmax = 1.5651184590510017 
+            text = "AO" 
+        intervals [12]:
+            xmin = 1.5651184590510017 
+            xmax = 1.9346622558563529 
+            text = "K" 
+        intervals [13]:
+            xmin = 1.9346622558563529 
+            xmax = 4.456780045351474 
+            text = "" 

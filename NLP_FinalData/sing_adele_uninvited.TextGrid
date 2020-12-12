@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.7716326530612245 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "word" 
+        xmin = 0 
+        xmax = 0.7716326530612245 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.7716326530612245 
+            text = "uninvited" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phone" 
+        xmin = 0 
+        xmax = 0.7716326530612245 
+        intervals: size = 11 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.008723197209510954 
+            text = "sil" 
+        intervals [2]:
+            xmin = 0.008723197209510954 
+            xmax = 0.13306502062636716 
+            text = "ah" 
+        intervals [3]:
+            xmin = 0.13306502062636716 
+            xmax = 0.16175525096875645 
+            text = "n" 
+        intervals [4]:
+            xmin = 0.16175525096875645 
+            xmax = 0.2082061000945296 
+            text = "ih" 
+        intervals [5]:
+            xmin = 0.2082061000945296 
+            xmax = 0.34482624458209776 
+            text = "n" 
+        intervals [6]:
+            xmin = 0.34482624458209776 
+            xmax = 0.41723492116050886 
+            text = "v" 
+        intervals [7]:
+            xmin = 0.41723492116050886 
+            xmax = 0.622165137891861 
+            text = "ay" 
+        intervals [8]:
+            xmin = 0.622165137891861 
+            xmax = 0.6508553682342504 
+            text = "t" 
+        intervals [9]:
+            xmin = 0.6508553682342504 
+            xmax = 0.7328274549267912 
+            text = "ih" 
+        intervals [10]:
+            xmin = 0.7328274549267912 
+            xmax = 0.7615456470657421 
+            text = "d" 
+        intervals [11]:
+            xmin = 0.7615456470657421 
+            xmax = 0.7716326530612245 
+            text = "sil" 
