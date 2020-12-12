@@ -1,0 +1,84 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.970702947845805 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "word" 
+        xmin = 0 
+        xmax = 2.970702947845805 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.17257757575653568 
+            text = "" 
+        intervals [2]:
+            xmin = 0.17257757575653568 
+            xmax = 0.48312441484723556 
+            text = "FEELS" 
+        intervals [3]:
+            xmin = 0.48312441484723556 
+            xmax = 1.0386221809744294 
+            text = "AMAZING" 
+        intervals [4]:
+            xmin = 1.0386221809744294 
+            xmax = 2.970702947845805 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phone" 
+        xmin = 0 
+        xmax = 2.970702947845805 
+        intervals: size = 12 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.17257757575653568 
+            text = "sil" 
+        intervals [2]:
+            xmin = 0.17257757575653568 
+            xmax = 0.32898864355671 
+            text = "F" 
+        intervals [3]:
+            xmin = 0.32898864355671 
+            xmax = 0.3801582931796094 
+            text = "IY" 
+        intervals [4]:
+            xmin = 0.3801582931796094 
+            xmax = 0.4322101781408347 
+            text = "L" 
+        intervals [5]:
+            xmin = 0.4322101781408347 
+            xmax = 0.48312441484723556 
+            text = "Z" 
+        intervals [6]:
+            xmin = 0.48312441484723556 
+            xmax = 0.5506261828060273 
+            text = "AH" 
+        intervals [7]:
+            xmin = 0.5506261828060273 
+            xmax = 0.6574199015623389 
+            text = "M" 
+        intervals [8]:
+            xmin = 0.6574199015623389 
+            xmax = 0.8450530736584494 
+            text = "EY" 
+        intervals [9]:
+            xmin = 0.8450530736584494 
+            xmax = 0.8679911924549216 
+            text = "Z" 
+        intervals [10]:
+            xmin = 0.8679911924549216 
+            xmax = 0.8965822915039672 
+            text = "IH" 
+        intervals [11]:
+            xmin = 0.8965822915039672 
+            xmax = 1.0386221809744294 
+            text = "NG" 
+        intervals [12]:
+            xmin = 1.0386221809744294 
+            xmax = 2.970702947845805 
+            text = "sil" 

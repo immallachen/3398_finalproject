@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.6713151927437642 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "word" 
+        xmin = 0 
+        xmax = 1.6713151927437642 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.6713151927437642 
+            text = "underestimate" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phone" 
+        xmin = 0 
+        xmax = 1.6713151927437642 
+        intervals: size = 13 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.018893980144200677 
+            text = "sil" 
+        intervals [2]:
+            xmin = 0.018893980144200677 
+            xmax = 0.3645046242622431 
+            text = "ah" 
+        intervals [3]:
+            xmin = 0.3645046242622431 
+            xmax = 0.5299251034982292 
+            text = "n" 
+        intervals [4]:
+            xmin = 0.5299251034982292 
+            xmax = 0.5860499089532959 
+            text = "d" 
+        intervals [5]:
+            xmin = 0.5860499089532959 
+            xmax = 0.8489503134533454 
+            text = "er" 
+        intervals [6]:
+            xmin = 0.8489503134533454 
+            xmax = 0.9346144902005525 
+            text = "eh" 
+        intervals [7]:
+            xmin = 0.9346144902005525 
+            xmax = 1.0990104845507185 
+            text = "s" 
+        intervals [8]:
+            xmin = 1.0990104845507185 
+            xmax = 1.134519918560967 
+            text = "t" 
+        intervals [9]:
+            xmin = 1.134519918560967 
+            xmax = 1.1996205475797557 
+            text = "ah" 
+        intervals [10]:
+            xmin = 1.1996205475797557 
+            xmax = 1.4126771516412464 
+            text = "m" 
+        intervals [11]:
+            xmin = 1.4126771516412464 
+            xmax = 1.599250344273711 
+            text = "ey" 
+        intervals [12]:
+            xmin = 1.599250344273711 
+            xmax = 1.6376515269534935 
+            text = "t" 
+        intervals [13]:
+            xmin = 1.6376515269534935 
+            xmax = 1.6713151927437642 
+            text = "sil" 

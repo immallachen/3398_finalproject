@@ -1,0 +1,100 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.970702947845805 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "word" 
+        xmin = 0 
+        xmax = 2.970702947845805 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.02629678487210993 
+            text = "" 
+        intervals [2]:
+            xmin = 0.02629678487210993 
+            xmax = 0.13569396682451557 
+            text = "FOR" 
+        intervals [3]:
+            xmin = 0.13569396682451557 
+            xmax = 0.21253357889769753 
+            text = "THE" 
+        intervals [4]:
+            xmin = 0.21253357889769753 
+            xmax = 0.735613996886095 
+            text = "FRIST" 
+        intervals [5]:
+            xmin = 0.735613996886095 
+            xmax = 1.1747969200947035 
+            text = "TIME" 
+        intervals [6]:
+            xmin = 1.1747969200947035 
+            xmax = 2.970702947845805 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phone" 
+        xmin = 0 
+        xmax = 2.970702947845805 
+        intervals: size = 14 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.02629678487210993 
+            text = "sil" 
+        intervals [2]:
+            xmin = 0.02629678487210993 
+            xmax = 0.045705962315278674 
+            text = "F" 
+        intervals [3]:
+            xmin = 0.045705962315278674 
+            xmax = 0.10746243599808832 
+            text = "AO" 
+        intervals [4]:
+            xmin = 0.10746243599808832 
+            xmax = 0.13569396682451557 
+            text = "R" 
+        intervals [5]:
+            xmin = 0.13569396682451557 
+            xmax = 0.16842181198140493 
+            text = "DH" 
+        intervals [6]:
+            xmin = 0.16842181198140493 
+            xmax = 0.21253357889769753 
+            text = "AH" 
+        intervals [7]:
+            xmin = 0.21253357889769753 
+            xmax = 0.3633958217514182 
+            text = "F" 
+        intervals [8]:
+            xmin = 0.3633958217514182 
+            xmax = 0.5707211262579935 
+            text = "ER" 
+        intervals [9]:
+            xmin = 0.5707211262579935 
+            xmax = 0.7186690307805054 
+            text = "S" 
+        intervals [10]:
+            xmin = 0.7186690307805054 
+            xmax = 0.735613996886095 
+            text = "T" 
+        intervals [11]:
+            xmin = 0.735613996886095 
+            xmax = 0.7912826859737666 
+            text = "T" 
+        intervals [12]:
+            xmin = 0.7912826859737666 
+            xmax = 1.0647756408547808 
+            text = "AY" 
+        intervals [13]:
+            xmin = 1.0647756408547808 
+            xmax = 1.1747969200947035 
+            text = "M" 
+        intervals [14]:
+            xmin = 1.1747969200947035 
+            xmax = 2.970702947845805 
+            text = "sil" 
